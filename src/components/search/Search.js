@@ -5,6 +5,7 @@ import MenuItem from 'material-ui/MenuItem';
 import axios from 'axios';
 import ImageResults from '../image/ImageResults';
 
+
 class Search extends Component {
   state = {
     searchText: '',
