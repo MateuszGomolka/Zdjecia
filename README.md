@@ -1,19 +1,19 @@
 ## Table of contents
 * [Główne informacje](#general-info)
-* [Technologies](#technologies)
+* [Jak działa?](#how)
 * [Jak uruchomić](#setup)
 
 ## Główne informacje
-This project is simple Lorem ipsum dolor generator.
+Przedstawiony projekt służy do wyszukiwania zdjęć z bazy danych Pixabay przy użyciu jego API.
+
 	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Jak działa?
+Jego działanie jest bardzo proste. Wpisjąc w wyszukiwarkę angielską frazę np. "dog" otrzymamy w domyśle 12 zdjęć psów które zostają zaczerpnięte ze zbioru zdjęć Pixabay. Zdjęcia wyszukiwane są na podstawie tagów. Dodatkowo przy każdym zdjęciu wyświetlony jest autor danego zdjęcia.
+
+
 	
 ## Jak uruchomić
-To run this project, install it locally using npm:
+Aby uruchomić projekt, należy zainstalować go lokalnie przy użyciu npm:
 
 ```
 $ npm install
