@@ -27,12 +27,11 @@ class ImageResults extends Component {
 
     if (images) {
       imageListContent = (
-        <GridList cols={2}>
-          {images.map(img => (
+        <GridList cellHeight={400} cols={2}>
+          {images.map((img) => (
             <GridTile
               title={img.tags}
               key={img.id}
-              like={img.like}
               subtitle={
                 <span>
                   Dodany przez użykownika: <strong>{img.user}</strong>
