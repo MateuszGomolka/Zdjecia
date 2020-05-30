@@ -2,6 +2,7 @@
 * [Główne informacje](#general)
 * [Jak działa?](#how)
 * [Dodatkowe funkcje](#function)
+* [Użyte technologie](#tech)
 * [Jak uruchomić](#setup)
 
 ## Główne informacje
@@ -17,7 +18,10 @@ Przy każdym wyszukanym zdjęciu została załączona lupa która umożliwia obe
 
 Dodatkową funkcją jest wybór ile zdjęć może jednocześnie pojawić się na stronie, wybór mieści się w zakresie od 12 do 60.
 
-	
+## Użyte technologie
+
+- Material-UI
+
 ## Jak uruchomić
 Aby uruchomić projekt, należy zainstalować go lokalnie przy użyciu npm:
 
