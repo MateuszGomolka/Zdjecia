@@ -1,4 +1,4 @@
-## Table of contents
+## Zawartość dokumentacji
 * [Główne informacje](#general)
 * [Jak działa?](#how)
 * [Dodatkowe funkcje](#function)
